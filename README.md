@@ -1,2 +1,2 @@
-# GitPractise1
+# GitPractice1
 This Repository is for Git Practise
